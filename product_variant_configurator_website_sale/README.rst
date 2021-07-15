@@ -1,5 +1,5 @@
 =================================================
-Product Variant Default Code glue to Website Sale
+Product Variant Configurator glue to Website Sale
 =================================================
 
 .. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
